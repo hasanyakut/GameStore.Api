@@ -23,3 +23,4 @@ C:\Users\hasan\OneDrive\Desktop\Projects\GameStore\GameStore.Api\obj\Debug\net8.
 C:\Users\hasan\OneDrive\Desktop\Projects\GameStore\GameStore.Api\obj\Debug\net8.0\GameStore.Api.pdb
 C:\Users\hasan\OneDrive\Desktop\Projects\GameStore\GameStore.Api\obj\Debug\net8.0\GameStore.Api.genruntimeconfig.cache
 C:\Users\hasan\OneDrive\Desktop\Projects\GameStore\GameStore.Api\obj\Debug\net8.0\ref\GameStore.Api.dll
+C:\Users\hasan\OneDrive\Desktop\Projects\GameStore\GameStore.Api\obj\Debug\net8.0\GameStore.Api.sourcelink.json

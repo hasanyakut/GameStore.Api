@@ -1,12 +1,26 @@
 GET http://localhost:5162/games
 
 ###
+GET http://localhost:5162/games/1
+
+###
 POST http://localhost:5162/games
+Content-Type: application/json
+
+{
+    "name": "Battlefield",
+    "genre": "War",
+    "price": 19.99,
+    "releaseDate": "2011-11-18"
+}
+
+###
+PUT http://localhost:5162/games/1
 Content-Type: application/json
 
 {
     "name": "Minecraft",
     "genre": "Kids and Family",
-    "price": 19.99,
-    "releaseDate": "2011-11-18"
+    "price": 25.99,
+    "releaseDate": "2011-11-19"
 }
